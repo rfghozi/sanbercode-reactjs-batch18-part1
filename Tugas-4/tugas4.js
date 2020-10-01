@@ -34,9 +34,6 @@ for(a = 1; a <= 20; a++){
     }
 }
 
-// for(jum = )
-
-
 // Soal 3 
 // Jawaban Soal 3
 console.log("");
